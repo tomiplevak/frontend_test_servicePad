@@ -1,0 +1,13 @@
+.editbutton {
+  color: rgba(132, 225, 167, 1);
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  border: none;
+  background-color: transparent;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-right: 24px;
+  padding-left: 49px;
+  cursor: pointer;
+}

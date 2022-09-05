@@ -1,0 +1,25 @@
+.latestarticles {
+  height: 658px;
+  background-color: #fafafa;
+  padding-left: 162px;
+  padding-right: 166px;
+  padding-top: 79px;
+  padding-bottom: 0px;
+}
+
+.latestarticles_header{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    place-items: center;
+}
+
+.latestarticles_h2 {
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 62px;
+  letter-spacing: -0.02em;
+  color: #2d314e;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}

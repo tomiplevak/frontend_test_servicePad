@@ -1,0 +1,33 @@
+.newarticle {
+  height: 1735px;
+  background: #F9F9F9;
+}
+
+.newarticle_h2 {
+  text-align: left;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 62px;
+  letter-spacing: -0.02em;
+  color: #2d314e;
+  padding-top: 68px;
+  margin-top: 0px;
+  margin-left: 162px;
+  margin-bottom: 20px;
+}
+
+.newarticle_p {
+  text-align: left;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 24px;
+  color: #99989d;
+  margin-left: 162px;
+  margin-top: 0px;
+  margin-bottom: 72px;
+}
+
+.newarticle_tablecontainer{
+  display: flex;
+  justify-content: center;
+}

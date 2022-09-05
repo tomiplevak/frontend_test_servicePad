@@ -1,0 +1,11 @@
+.framelogo{
+  display: flex;
+  justify-content: left
+ 
+}
+
+.framelogo_logo {
+  position: relative;
+  right: 55px;
+
+}

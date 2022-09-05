@@ -1,0 +1,15 @@
+.button{
+    width: 165px;
+    height: 45px;
+    min-width: 165px !important;
+    padding: 0 0 0 0 !important;
+    border-radius: 89px !important;
+    font-family: 'Public Sans', sans-serif !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 16px !important;
+    line-height: 7px !important;
+    text-transform: capitalize !important;    
+}
+
+/* I use !important only in this css to overwrite the styles computed by MUI */

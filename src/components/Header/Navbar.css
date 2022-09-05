@@ -1,0 +1,30 @@
+.nav{
+  display: flex;
+  text-align: center;
+}
+
+.ul {
+  display: flex;
+  gap: 1.5rem;
+  list-style-type: none;
+  padding-top: 2.5rem;
+  padding-inline-start: 0px;
+}
+
+.customlink{
+  text-align: center;
+
+}
+
+.links {
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 7px;
+  color: #99989d;
+  text-align: center;
+}
+
+.links__active {
+  color: #2d314d;
+}

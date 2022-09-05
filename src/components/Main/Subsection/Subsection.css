@@ -1,0 +1,33 @@
+.subsection {
+  height: 580px;
+  background-color: #f4f5f7;
+  text-align: left;
+  padding-left: 162px;
+  padding-right: 10rem;
+  padding-top: 96px;
+}
+
+.subsection_h2 {
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 62px;
+  letter-spacing: -0.02em;
+  color: #2d314e;
+  margin-bottom: 20px;
+  margin-top: 0px;
+}
+
+.subsection_p {
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 25px;
+  color: #959499;
+  width: 594px;
+  height: 50px;
+}
+
+.frames {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 65px;
+}

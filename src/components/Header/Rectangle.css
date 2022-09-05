@@ -1,0 +1,10 @@
+.rectangle {
+  width: 51px;
+  height: 4px;
+  border: none;
+  margin-top: 1.5rem;
+}
+
+.rectangle__active {
+  background: linear-gradient(90deg, #36cb6d 0%, #29b8c8 100%);
+}

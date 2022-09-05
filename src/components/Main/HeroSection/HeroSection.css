@@ -1,0 +1,26 @@
+.herosection {
+  display: flex;
+  justify-content: space-between;
+  text-align: left;
+  margin-left: 162px;
+  height: 665px;
+}
+
+.herosection_intro_h1 {
+  font-weight: 400;
+  font-size: 53px;
+  line-height: 62px;
+  margin-top: 177px;
+  margin-bottom: 30px;
+}
+
+.herosection_intro_p {
+  width: 446px;
+  height: 86px;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: -0.01em;
+  color: #959499;
+  margin-bottom: 37px;
+}

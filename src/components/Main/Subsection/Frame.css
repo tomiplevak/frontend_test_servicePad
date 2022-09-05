@@ -1,0 +1,20 @@
+.frame_title {
+  width: 189px;
+  height: 62px;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 62px;
+  letter-spacing: -0.01em;
+  color: #2d314e;
+  margin: 0;
+}
+
+.frame_p {
+  width: 247px;
+  height: 99px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: -0.04em;
+  color: #959499;
+}
