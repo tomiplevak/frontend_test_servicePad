@@ -1,10 +1,11 @@
-## Run the app
+## Frontend knowledge application test
 
+#Run the app
 In the project directory, run:
 `npm i`
 `npm start`
 
-Frontend knowledge application test
+ServicePad Challenge / Statement:
 
 You need to design a landing page where you will apply the skills required for a
 frontend developer position.
