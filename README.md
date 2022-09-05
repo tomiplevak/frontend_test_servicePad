@@ -1,3 +1,9 @@
+## Run the app
+
+In the project directory, run:
+`npm i`
+`npm start`
+
 Frontend knowledge application test
 
 You need to design a landing page where you will apply the skills required for a
